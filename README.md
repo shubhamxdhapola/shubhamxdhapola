@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Dhapola
 - 🎯 I'm a passionate programming enthusiast and primarily a Python Developer.
-- 👀 I’m looking to collaborate on python projects and seraching for an internship.
+- 👀 I’m looking to collaborate on python projects and searching for an internship.
 - 📧 shubhamdhapola143@gmail.com 
 - ⚡ Fun fact: I can solve a Rubiks Cube under 20 seconds
 
