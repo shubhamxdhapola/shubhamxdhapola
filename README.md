@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Dhapola
-- 🎯 I'm a passionate programming enthusiast and primarily a Web Developer.
+- 🎯 I'm a passionate programming enthusiast and primarily a Full Stack Web Developer.
 - 👀 I’m looking to collaborate on Web Development projects and searching for an internship.
 - 📧 shubhamdhapola143@gmail.com 
 - ⚡ Fun fact: I can solve a Rubiks Cube under 20 seconds
