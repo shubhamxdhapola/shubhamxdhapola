@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Shubham Dhapola
-- 🎯 I'm a passionate programming enthusiast and primarily a Full Stack Web Developer.
-- 👀 I’m looking to collaborate on Web Development projects and searching for an internship.
-- 📧 shubhamdhapola143@gmail.com 
-- ⚡ Fun fact: I can solve a Rubiks Cube under 25 seconds
+# 👋 Hi, I’m Shubham Dhapola
 
-<!---
-shubhamxdhapola/shubhamxdhapola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 A passionate Full Stack Web Developer with a strong interest in creating clean, efficient, and scalable web applications.  
+💡 Skilled in building dynamic frontend interfaces and robust backend systems.  
+🤝 Actively looking to collaborate on exciting **Web Development** projects and open to **internship opportunities and Job opportunities**.
+
+## 🚀 Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS, DaisyUI, HTML5, CSS3, JavaScript  
+- **Backend**: Node.js, Express.js, MongoDB, JWT
+- **Other Tools**: Redux, Git, GitHub, REST APIs, Postman, Zustand
+
+## 📫 Contact Me
+
+- 📧 Email: [shubhamdhapola143@gmail.com](mailto:shubhamdhapola143@gmail.com)  
+- 🔗 Portfolio: [Visit Here!](https://portfolio-site-git-projects-shubhamxdhapolas-projects.vercel.app/)  
+- 🌐 LinkedIn: [Visit Here!](https://www.linkedin.com/in/shubhamdhapola/)
+
+## ⚡ Fun Fact
+
+I can solve a Rubik’s Cube in under **25 seconds** 🧩
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and connect. 😊
