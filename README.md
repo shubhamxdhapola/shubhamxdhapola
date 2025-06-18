@@ -6,9 +6,9 @@
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, DaisyUI, HTML5, CSS3, JavaScript  
+- **Frontend**: React, Tailwind CSS, DaisyUI, HTML5, CSS3, JavaScript, Bootstrap  
 - **Backend**: Node.js, Express.js, MongoDB, JWT
-- **Other Tools**: Redux, Git, GitHub, REST APIs, Postman, Zustand
+- **Other Tools**: Redux, Git, GitHub, REST APIs, Postman, Firebase
 
 ## 📫 Contact Me
 
