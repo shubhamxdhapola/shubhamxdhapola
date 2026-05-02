@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Linktree-like web app with authentication and custom profile features.<br><br>🤝 I’m looking to collaborate on open-source MERN projects and full-stack web applications.<br><br>💬 Ask me about React, Node.js, MongoDB, or anything related to web development.<br><br>🌱 I’m currently learning Next.js and DSA.<br><br>⚡ Fun fact: I enjoy turning ideas into projects that actually solve real-world problems!
+🔭 I’m currently working on a SmartVetan - A payroll management web app.<br><br>🤝 I’m looking to collaborate on open-source MERN projects and full-stack web applications.<br><br>💬 Ask me about React, Node.js, MongoDB, or anything related to web development.<br><br>🌱 I’m currently learning Next.js and DSA.<br><br>⚡ Fun fact: I enjoy turning ideas into projects that actually solve real-world problems!
 
 
 ## 🌐 Socials:
