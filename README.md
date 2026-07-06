@@ -1,4 +1,4 @@
-# 💫 Hello! I am Shubham, Have a good day :)
+# 💫 Hello, I am Shubham, Have a good day :)
 🚀 A MERN-based Petrol Pump Management System with real-time shift tracking, fuel inventory, and analytics.<br>💻 MERN Stack projects, Backend APIs, and Open Source.<br>📚 TypeScript • Next.js • Advanced Backend Development • DSA<br>⚛️ React • Node.js • Express • MongoDB • JWT Authentication • REST APIs<br>🧩 A developer can become a VibeCoder anytime but a VibeCoder cannot become a developer.
 
 ## 🌐 Socials:
