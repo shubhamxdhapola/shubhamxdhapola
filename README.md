@@ -21,7 +21,7 @@
   <a href="https://instagram.com/orewashubham" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:shubhamdhapola143@gmail.com">
+  <a href="mailto:shubhamxdhapola@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 <a href="https://leetcode.com/u/shubhamxdhapola/" target="_blank">
