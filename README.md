@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamxdhapola&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-22c55e?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-a78bfa?style=for-the-badge" alt="Open to opportunities" />
-</p>
-
-<p align="center">
   <a href="https://shubhamxdev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -60,10 +54,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase\&logoColor=white)
@@ -74,7 +66,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
