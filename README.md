@@ -1,17 +1,314 @@
-# 💫 Hello, I am Shubham, Have a good day :)
-🚀 A MERN-based Petrol Pump Management System with real-time shift tracking, fuel inventory, and analytics.<br>💻 MERN Stack projects, Backend APIs, and Open Source.<br>📚 TypeScript • Next.js • Advanced Backend Development • DSA<br>⚛️ React • Node.js • Express • MongoDB • JWT Authentication • REST APIs<br>🧩 A developer can become a VibeCoder anytime but a VibeCoder cannot become a developer.
+<p align="center">
+  <img src="./assets/neon-profile-wave.svg" width="100%" alt="Shubham neon animated profile banner" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orewashubham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamdhapola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdhapola143@gmail.com) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Web+Developer+from+India;React+%2B+Node.js+%2B+MongoDB;Building+real-world+web+applications;Learning+Next.js+%2B+TypeScript+%2B+Redis;Turning+ideas+into+working+products" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shubhamxdhapola&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shubhamxdhapola&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamxdhapola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamxdhapola&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development-22c55e?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-a78bfa?style=for-the-badge" alt="Open to opportunities" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://shubhamxdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/shubhamxdhapola" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## ⚡ Who am I?
+
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
+
+```ts
+const shubham = {
+  role: "Full Stack Web Developer",
+  basedIn: "India 🇮🇳",
+
+  mainStack: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  currentlyExploring: [
+    "Next.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Redis",
+    "System Design"
+  ],
+
+  frontend: [
+    "React",
+    "Redux Toolkit",
+    "Zustand",
+    "Tailwind CSS",
+    "DaisyUI"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+    "REST APIs",
+    "JWT"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vercel",
+    "Render",
+    "Cloudinary"
+  ],
+
+  builderMode: "learn → build → break → fix → ship",
+
+  mindset: "Build things that solve real problems."
+};
+```
+
+I'm a **Full Stack Web Developer** who enjoys building real-world web applications from idea to deployment.
+
+I work primarily with **React, Node.js, Express.js and MongoDB**, while continuously exploring **Next.js, TypeScript, PostgreSQL, Redis and system design**.
+
+I enjoy working on projects that go beyond simple CRUD — authentication, real-time communication, dashboards, payments, APIs, database design and production-ready application architecture.
+
+**Code → Build → Deploy → Learn → Repeat. 🚀**
+
+---
+
+## 🧠 Current Mode
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎨 Frontend</h3>
+      <p>Building responsive interfaces, reusable components and smooth user experiences.</p>
+    </td>
+
+```
+<td width="33%" align="center">
+  <h3>⚙️ Full Stack</h3>
+  <p>Working with APIs, authentication, databases, state management and real-world application flows.</p>
+</td>
+
+<td width="33%" align="center">
+  <h3>🧩 Engineering</h3>
+  <p>Learning databases, caching, system design, testing, networking and production practices.</p>
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,firebase,python,git,github,docker,vercel,render,postman,vscode,figma&perline=12" alt="Tech stack icons" />
+</p>
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>HTML5, CSS3, JavaScript, React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS, DaisyUI</td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express.js, REST APIs, JWT, Mongoose, MongoDB, PostgreSQL</td>
+  </tr>
+
+  <tr>
+    <td><b>Tools & Services</b></td>
+    <td>Git, GitHub, Postman, Vercel, Render, Cloudinary, Firebase, MongoDB Atlas</td>
+  </tr>
+
+  <tr>
+    <td><b>Currently Learning</b></td>
+    <td>TypeScript, Next.js, PostgreSQL, Redis, Testing, Networking, System Design, CI/CD</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Things I've Built
+
+### 💬 QuickChat
+
+Real-time chat application built for seamless communication between users.
+
+**Tech:** React • Tailwind CSS • DaisyUI • Zustand • Node.js • Express.js • MongoDB • Socket.io • JWT
+
+* Real-time messaging
+* User authentication
+* Online/offline status
+* File sharing
+* Profile management
+* WebSocket-based communication
+
+---
+
+### 🛒 Drippy
+
+Full-stack e-commerce platform with customer and admin functionality.
+
+**Tech:** React • Redux Toolkit • Tailwind CSS • DaisyUI • Node.js • Express.js • MongoDB • PayPal • Firebase • Cloudinary
+
+* Product management
+* Shopping cart
+* Authentication
+* Google OAuth
+* Admin dashboard
+* Payment integration
+* Image management
+
+---
+
+### 💰 FinTrac
+
+Personal expense tracking application focused on understanding and managing spending.
+
+**Tech:** MERN • Redux Toolkit • Tailwind CSS • Recharts
+
+* Expense tracking
+* Financial dashboard
+* Data visualization
+* Category-based expenses
+* Responsive interface
+
+---
+
+### 🔗 BitLinks
+
+URL shortening platform built with modern full-stack technologies.
+
+**Tech:** Next.js • TypeScript • MongoDB
+
+* Short URL generation
+* Redirect handling
+* Database-backed links
+* Modern Next.js architecture
+
+---
+
+### ⛽ Sai Petrol Pump
+
+Management system designed for handling petrol pump operations and fuel sales.
+
+**Tech:** MERN Stack
+
+* Employee shift management
+* Opening/closing meter readings
+* Fuel sales tracking
+* Tank refill management
+* Machine & nozzle management
+* Daily/weekly/monthly/yearly metrics
+* Revenue tracking
+
+---
+
+### 🐶 The Dogs Garage
+
+Pet store platform concept combining live pet listings with an online accessories store.
+
+**Tech:** MERN • Redux Toolkit • Razorpay • Twilio OTP • Cloudinary
+
+* Pet listings
+* Photo/video galleries
+* Accessories store
+* Cart & checkout
+* UPI & COD
+* Authentication
+* OTP verification
+* Admin functionality
+
+---
+
+## 📊 GitHub Pulse
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shubhamxdhapola&theme=highcontrast&hide_border=true&border_radius=0&ring=FF00F5&fire=FF00F5&currStreakLabel=FF00F5&sideNums=00E5FF&sideLabels=00E5FF&dates=FFFFFF&background=0D1117" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <b>Consistency beats motivation. Keep building. 🔥</b>
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+```txt
+> Become a stronger full-stack engineer
+> Master TypeScript and Next.js
+> Get comfortable with PostgreSQL
+> Learn Redis and caching properly
+> Improve DSA and problem-solving
+> Understand system design fundamentals
+> Learn testing and CI/CD
+> Explore Docker and cloud deployment
+> Build production-quality projects
+> Contribute to open-source
+```
+
+---
+
+## 🧩 Beyond Coding
+
+```txt
+⚡ Building side projects
+🧠 Solving DSA problems
+🎨 Experimenting with UI/UX
+🧩 Playing with new technologies
+🎮 Gaming
+🎵 Music
+🎌 Anime
+🧊 Solving Rubik's Cubes
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://github.com/shubhamxdhapola" target="_blank">
+    <img height="56" src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" />
+  </a>
+
+  <a href="https://linkedin.com" target="_blank">
+    <img height="56" src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" />
+  </a>
+
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by 👋</b>
+</p>
+
+<p align="center">
+  <i>Still learning. Still building. Still shipping.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:8b5cf6,100:38bdf8&height=120&section=footer" width="100%" alt="Footer wave" />
+</p>
