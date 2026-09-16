@@ -4,10 +4,10 @@
 <desc id='desc'>Animated neon glass profile cover for Shubham, Full-Stack Web Developer.</desc>
 
 <style>
-@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700;800&amp;display=swap);
 
 .t {
-  font-family: Poppins, Segoe UI, Arial, sans-serif;
+  font-family: Rajdhani, Segoe UI, Arial, sans-serif;
 }
 
 .name {
@@ -485,7 +485,7 @@
   <text
     x='22'
     y='13.95'>
-    shubhamdhapola143@gmail.com
+    shubhamxdhapola@gmail.com
   </text>
 
   <!-- LinkedIn -->
