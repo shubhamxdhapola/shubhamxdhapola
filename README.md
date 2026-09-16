@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-profile-wave.svg" width="100%" alt="Shubham animated neon profile banner" />
+  <img src="./neon-profile-wave.svg" width="100%" alt="Shubham animated neon profile banner" />
 </p>
 
 <p align="center">
