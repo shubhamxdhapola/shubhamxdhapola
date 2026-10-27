@@ -179,10 +179,10 @@
     </g>
 
     <!-- Pill 4: Clean UI / UX -->
-    <g transform="translate(255, 0)">
+    <!-- <g transform="translate(255, 0)">
       <rect x="-70" y="-15" width="180" height="30" rx="15" fill="url(#badgeGrad)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
       <text class="tech-pill" x="0" y="5" text-anchor="middle">💎 Clean UI &amp; Real-time</text>
-    </g>
+    </g> -->
   </g>
 
   <!-- Flowing Neon Wave Curves at the Bottom -->
