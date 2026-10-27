@@ -159,7 +159,7 @@
   </text>
 
   <!-- Dynamic Tech Stack Badges Row Inside Banner -->
-  <g transform="translate(700, 256)">
+  <g transform="translate(800, 256)">
     <!-- Pill 1: MERN & Next.js -->
     <g transform="translate(-255, 0)">
       <rect x="-75" y="-15" width="150" height="30" rx="15" fill="url(#badgeGrad)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
@@ -168,7 +168,7 @@
 
     <!-- Pill 2: TypeScript & React -->
     <g transform="translate(-85, 0)">
-      <rect x="-80" y="-15" width="170" height="30" rx="15" fill="url(#badgeGrad)" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.6"/>
+      <rect x="-80" y="-15" width="180" height="30" rx="15" fill="url(#badgeGrad)" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.6"/>
       <text class="tech-pill" x="0" y="5" text-anchor="middle">🔷 TypeScript &amp; NestJS</text>
     </g>
 
